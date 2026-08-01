@@ -1,2 +1,5 @@
 <Solution>
+  <Folder Name="/UploaderService/">
+    <Project Path="UploaderService/UploaderService.Domain/UploaderService.Domain.csproj" />
+  </Folder>
 </Solution>
